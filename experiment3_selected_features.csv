@@ -1,0 +1,436 @@
+﻿Branch,Selection_Method,Feature
+Packet-Based,All_Features,average_p
+Packet-Based,All_Features,channel_10_count
+Packet-Based,All_Features,channel_10_mean
+Packet-Based,All_Features,channel_10_var
+Packet-Based,All_Features,channel_1_count
+Packet-Based,All_Features,channel_1_mean
+Packet-Based,All_Features,channel_1_var
+Packet-Based,All_Features,channel_30_count
+Packet-Based,All_Features,channel_30_mean
+Packet-Based,All_Features,channel_30_var
+Packet-Based,All_Features,channel_5_count
+Packet-Based,All_Features,channel_5_mean
+Packet-Based,All_Features,channel_5_var
+Packet-Based,All_Features,channel_60_count
+Packet-Based,All_Features,channel_60_mean
+Packet-Based,All_Features,channel_60_var
+Packet-Based,All_Features,dst_port
+Packet-Based,All_Features,eth_size
+Packet-Based,All_Features,inter_arrival_time
+Packet-Based,All_Features,jitter
+Packet-Based,All_Features,l3_ip_dst_count
+Packet-Based,All_Features,l4_tcp
+Packet-Based,All_Features,max_p
+Packet-Based,All_Features,med_p
+Packet-Based,All_Features,min_e
+Packet-Based,All_Features,min_et
+Packet-Based,All_Features,min_p
+Packet-Based,All_Features,most_freq_spot
+Packet-Based,All_Features,payload_entropy
+Packet-Based,All_Features,payload_length
+Packet-Based,All_Features,port_class_dst
+Packet-Based,All_Features,q1
+Packet-Based,All_Features,q1_e
+Packet-Based,All_Features,q1_p
+Packet-Based,All_Features,q3_p
+Packet-Based,All_Features,src_ip_10_count
+Packet-Based,All_Features,src_ip_10_mean
+Packet-Based,All_Features,src_ip_10_var
+Packet-Based,All_Features,src_ip_1_count
+Packet-Based,All_Features,src_ip_1_mean
+Packet-Based,All_Features,src_ip_1_var
+Packet-Based,All_Features,src_ip_30_count
+Packet-Based,All_Features,src_ip_30_mean
+Packet-Based,All_Features,src_ip_30_var
+Packet-Based,All_Features,src_ip_5_count
+Packet-Based,All_Features,src_ip_5_mean
+Packet-Based,All_Features,src_ip_5_var
+Packet-Based,All_Features,src_ip_60_count
+Packet-Based,All_Features,src_ip_60_mean
+Packet-Based,All_Features,src_ip_60_var
+Packet-Based,All_Features,src_ip_mac_10_count
+Packet-Based,All_Features,src_ip_mac_10_mean
+Packet-Based,All_Features,src_ip_mac_10_var
+Packet-Based,All_Features,src_ip_mac_1_count
+Packet-Based,All_Features,src_ip_mac_1_mean
+Packet-Based,All_Features,src_ip_mac_1_var
+Packet-Based,All_Features,src_ip_mac_30_count
+Packet-Based,All_Features,src_ip_mac_30_mean
+Packet-Based,All_Features,src_ip_mac_30_var
+Packet-Based,All_Features,src_ip_mac_5_count
+Packet-Based,All_Features,src_ip_mac_5_mean
+Packet-Based,All_Features,src_ip_mac_5_var
+Packet-Based,All_Features,src_ip_mac_60_count
+Packet-Based,All_Features,src_ip_mac_60_mean
+Packet-Based,All_Features,src_ip_mac_60_var
+Packet-Based,All_Features,src_port
+Packet-Based,All_Features,stream
+Packet-Based,All_Features,stream_10_count
+Packet-Based,All_Features,stream_10_mean
+Packet-Based,All_Features,stream_10_var
+Packet-Based,All_Features,stream_1_count
+Packet-Based,All_Features,stream_1_mean
+Packet-Based,All_Features,stream_1_var
+Packet-Based,All_Features,stream_30_count
+Packet-Based,All_Features,stream_30_mean
+Packet-Based,All_Features,stream_30_var
+Packet-Based,All_Features,stream_5_count
+Packet-Based,All_Features,stream_5_mean
+Packet-Based,All_Features,stream_5_var
+Packet-Based,All_Features,stream_60_count
+Packet-Based,All_Features,stream_60_mean
+Packet-Based,All_Features,stream_60_var
+Packet-Based,All_Features,stream_jitter_10_mean
+Packet-Based,All_Features,stream_jitter_10_sum
+Packet-Based,All_Features,stream_jitter_10_var
+Packet-Based,All_Features,stream_jitter_1_mean
+Packet-Based,All_Features,stream_jitter_1_sum
+Packet-Based,All_Features,stream_jitter_1_var
+Packet-Based,All_Features,stream_jitter_30_mean
+Packet-Based,All_Features,stream_jitter_30_sum
+Packet-Based,All_Features,stream_jitter_30_var
+Packet-Based,All_Features,stream_jitter_5_mean
+Packet-Based,All_Features,stream_jitter_5_sum
+Packet-Based,All_Features,stream_jitter_5_var
+Packet-Based,All_Features,stream_jitter_60_mean
+Packet-Based,All_Features,stream_jitter_60_sum
+Packet-Based,All_Features,stream_jitter_60_var
+Packet-Based,All_Features,sum_p
+Packet-Based,All_Features,tcp_window_size
+Packet-Based,All_Features,time_since_previously_displayed_frame
+Packet-Based,All_Features,ttl
+Packet-Based,All_Features,var_e
+Packet-Based,All_Features,var_p
+Packet-Based,Mutual_Information,average_p
+Packet-Based,Mutual_Information,channel_10_mean
+Packet-Based,Mutual_Information,channel_10_var
+Packet-Based,Mutual_Information,channel_30_mean
+Packet-Based,Mutual_Information,channel_30_var
+Packet-Based,Mutual_Information,channel_5_var
+Packet-Based,Mutual_Information,channel_60_mean
+Packet-Based,Mutual_Information,channel_60_var
+Packet-Based,Mutual_Information,dst_port
+Packet-Based,Mutual_Information,max_p
+Packet-Based,Mutual_Information,most_freq_spot
+Packet-Based,Mutual_Information,src_ip_10_mean
+Packet-Based,Mutual_Information,src_ip_1_mean
+Packet-Based,Mutual_Information,src_ip_30_mean
+Packet-Based,Mutual_Information,src_ip_5_mean
+Packet-Based,Mutual_Information,src_ip_60_mean
+Packet-Based,Mutual_Information,src_ip_mac_10_mean
+Packet-Based,Mutual_Information,src_ip_mac_1_mean
+Packet-Based,Mutual_Information,src_ip_mac_30_mean
+Packet-Based,Mutual_Information,src_ip_mac_5_mean
+Packet-Based,Mutual_Information,src_ip_mac_60_mean
+Packet-Based,Mutual_Information,src_port
+Packet-Based,Mutual_Information,stream_30_mean
+Packet-Based,Mutual_Information,stream_60_mean
+Packet-Based,Mutual_Information,stream_jitter_10_mean
+Packet-Based,Mutual_Information,stream_jitter_30_mean
+Packet-Based,Mutual_Information,stream_jitter_60_mean
+Packet-Based,Mutual_Information,sum_p
+Packet-Based,Mutual_Information,var_e
+Packet-Based,Mutual_Information,var_p
+Packet-Based,RandomForest_Importance,channel_10_count
+Packet-Based,RandomForest_Importance,channel_10_var
+Packet-Based,RandomForest_Importance,channel_1_count
+Packet-Based,RandomForest_Importance,channel_30_var
+Packet-Based,RandomForest_Importance,channel_5_count
+Packet-Based,RandomForest_Importance,channel_60_var
+Packet-Based,RandomForest_Importance,inter_arrival_time
+Packet-Based,RandomForest_Importance,l3_ip_dst_count
+Packet-Based,RandomForest_Importance,q1_p
+Packet-Based,RandomForest_Importance,src_ip_10_count
+Packet-Based,RandomForest_Importance,src_ip_1_count
+Packet-Based,RandomForest_Importance,src_ip_5_count
+Packet-Based,RandomForest_Importance,src_ip_mac_10_count
+Packet-Based,RandomForest_Importance,src_ip_mac_1_count
+Packet-Based,RandomForest_Importance,src_ip_mac_5_count
+Packet-Based,RandomForest_Importance,stream
+Packet-Based,RandomForest_Importance,stream_10_var
+Packet-Based,RandomForest_Importance,stream_5_var
+Packet-Based,RandomForest_Importance,stream_jitter_10_mean
+Packet-Based,RandomForest_Importance,stream_jitter_10_sum
+Packet-Based,RandomForest_Importance,stream_jitter_1_mean
+Packet-Based,RandomForest_Importance,stream_jitter_30_mean
+Packet-Based,RandomForest_Importance,stream_jitter_30_sum
+Packet-Based,RandomForest_Importance,stream_jitter_5_mean
+Packet-Based,RandomForest_Importance,stream_jitter_5_sum
+Packet-Based,RandomForest_Importance,stream_jitter_5_var
+Packet-Based,RandomForest_Importance,stream_jitter_60_mean
+Packet-Based,RandomForest_Importance,stream_jitter_60_sum
+Packet-Based,RandomForest_Importance,stream_jitter_60_var
+Packet-Based,RandomForest_Importance,tcp_window_size
+Packet-Based,HHO,channel_60_var
+Packet-Based,HHO,src_ip_10_mean
+Packet-Based,HHO,src_ip_5_count
+Packet-Based,HHO,src_ip_5_mean
+Packet-Based,HHO,src_ip_mac_1_count
+Packet-Based,HHO,src_ip_mac_5_mean
+Packet-Based,HHO,stream
+Packet-Based,HHO,stream_60_var
+Packet-Based,HHO,stream_jitter_60_mean
+Packet-Based,HHO,stream_jitter_60_var
+Packet-Based,HHO,time_since_previously_displayed_frame
+Packet-Based,GWO,channel_10_count
+Packet-Based,GWO,channel_1_count
+Packet-Based,GWO,channel_1_var
+Packet-Based,GWO,channel_30_mean
+Packet-Based,GWO,channel_30_var
+Packet-Based,GWO,channel_60_var
+Packet-Based,GWO,inter_arrival_time
+Packet-Based,GWO,l4_tcp
+Packet-Based,GWO,max_p
+Packet-Based,GWO,min_e
+Packet-Based,GWO,min_et
+Packet-Based,GWO,min_p
+Packet-Based,GWO,most_freq_spot
+Packet-Based,GWO,payload_length
+Packet-Based,GWO,port_class_dst
+Packet-Based,GWO,src_ip_1_count
+Packet-Based,GWO,src_ip_60_var
+Packet-Based,GWO,src_ip_mac_10_mean
+Packet-Based,GWO,src_ip_mac_1_count
+Packet-Based,GWO,src_ip_mac_5_mean
+Packet-Based,GWO,src_port
+Packet-Based,GWO,stream
+Packet-Based,GWO,stream_30_count
+Packet-Based,GWO,stream_5_mean
+Packet-Based,GWO,stream_60_count
+Packet-Based,GWO,stream_60_var
+Packet-Based,GWO,stream_jitter_10_var
+Packet-Based,GWO,stream_jitter_1_sum
+Packet-Based,GWO,stream_jitter_30_mean
+Packet-Based,GWO,stream_jitter_30_sum
+Packet-Based,GWO,stream_jitter_5_sum
+Packet-Based,GWO,stream_jitter_60_sum
+Packet-Based,GWO,stream_jitter_60_var
+Packet-Based,GWO,tcp_window_size
+Packet-Based,GWO,time_since_previously_displayed_frame
+Packet-Based,Hybrid_HHO_GWO,average_p
+Packet-Based,Hybrid_HHO_GWO,channel_10_mean
+Packet-Based,Hybrid_HHO_GWO,channel_1_count
+Packet-Based,Hybrid_HHO_GWO,channel_1_mean
+Packet-Based,Hybrid_HHO_GWO,channel_5_var
+Packet-Based,Hybrid_HHO_GWO,channel_60_mean
+Packet-Based,Hybrid_HHO_GWO,channel_60_var
+Packet-Based,Hybrid_HHO_GWO,dst_port
+Packet-Based,Hybrid_HHO_GWO,l3_ip_dst_count
+Packet-Based,Hybrid_HHO_GWO,min_e
+Packet-Based,Hybrid_HHO_GWO,min_et
+Packet-Based,Hybrid_HHO_GWO,payload_length
+Packet-Based,Hybrid_HHO_GWO,port_class_dst
+Packet-Based,Hybrid_HHO_GWO,q3_p
+Packet-Based,Hybrid_HHO_GWO,src_ip_10_mean
+Packet-Based,Hybrid_HHO_GWO,src_ip_10_var
+Packet-Based,Hybrid_HHO_GWO,src_ip_30_count
+Packet-Based,Hybrid_HHO_GWO,src_ip_30_mean
+Packet-Based,Hybrid_HHO_GWO,src_ip_5_count
+Packet-Based,Hybrid_HHO_GWO,src_ip_5_mean
+Packet-Based,Hybrid_HHO_GWO,src_ip_5_var
+Packet-Based,Hybrid_HHO_GWO,src_ip_mac_10_count
+Packet-Based,Hybrid_HHO_GWO,src_ip_mac_10_mean
+Packet-Based,Hybrid_HHO_GWO,src_ip_mac_30_mean
+Packet-Based,Hybrid_HHO_GWO,src_ip_mac_5_count
+Packet-Based,Hybrid_HHO_GWO,src_ip_mac_5_mean
+Packet-Based,Hybrid_HHO_GWO,stream
+Packet-Based,Hybrid_HHO_GWO,stream_10_mean
+Packet-Based,Hybrid_HHO_GWO,stream_30_count
+Packet-Based,Hybrid_HHO_GWO,stream_30_mean
+Packet-Based,Hybrid_HHO_GWO,stream_5_count
+Packet-Based,Hybrid_HHO_GWO,stream_60_mean
+Packet-Based,Hybrid_HHO_GWO,stream_jitter_10_sum
+Packet-Based,Hybrid_HHO_GWO,stream_jitter_10_var
+Packet-Based,Hybrid_HHO_GWO,stream_jitter_1_var
+Packet-Based,Hybrid_HHO_GWO,stream_jitter_5_var
+Packet-Based,Hybrid_HHO_GWO,stream_jitter_60_var
+Packet-Based,Hybrid_HHO_GWO,tcp_window_size
+Packet-Based,Hybrid_HHO_GWO,time_since_previously_displayed_frame
+Packet-Based,Hybrid_HHO_GWO,var_p
+Flow-Based,All_Features,ACK Flag Count
+Flow-Based,All_Features,Active Max
+Flow-Based,All_Features,Active Mean
+Flow-Based,All_Features,Active Min
+Flow-Based,All_Features,Active Std
+Flow-Based,All_Features,Average Packet Size
+Flow-Based,All_Features,Bwd Bulk Rate Avg
+Flow-Based,All_Features,Bwd Bytes/Bulk Avg
+Flow-Based,All_Features,Bwd Header Length
+Flow-Based,All_Features,Bwd IAT Max
+Flow-Based,All_Features,Bwd IAT Mean
+Flow-Based,All_Features,Bwd IAT Min
+Flow-Based,All_Features,Bwd IAT Std
+Flow-Based,All_Features,Bwd IAT Total
+Flow-Based,All_Features,Bwd Init Win Bytes
+Flow-Based,All_Features,Bwd Packet Length Max
+Flow-Based,All_Features,Bwd Packet Length Mean
+Flow-Based,All_Features,Bwd Packet Length Min
+Flow-Based,All_Features,Bwd Packet Length Std
+Flow-Based,All_Features,Bwd Packet/Bulk Avg
+Flow-Based,All_Features,Bwd Packets/s
+Flow-Based,All_Features,Bwd Segment Size Avg
+Flow-Based,All_Features,Down/Up Ratio
+Flow-Based,All_Features,Dst Port
+Flow-Based,All_Features,FIN Flag Count
+Flow-Based,All_Features,FWD Init Win Bytes
+Flow-Based,All_Features,Flow Bytes/s
+Flow-Based,All_Features,Flow Duration
+Flow-Based,All_Features,Flow IAT Max
+Flow-Based,All_Features,Flow IAT Mean
+Flow-Based,All_Features,Flow IAT Min
+Flow-Based,All_Features,Flow IAT Std
+Flow-Based,All_Features,Flow Packets/s
+Flow-Based,All_Features,Fwd Act Data Pkts
+Flow-Based,All_Features,Fwd Header Length
+Flow-Based,All_Features,Fwd IAT Max
+Flow-Based,All_Features,Fwd IAT Mean
+Flow-Based,All_Features,Fwd IAT Min
+Flow-Based,All_Features,Fwd IAT Std
+Flow-Based,All_Features,Fwd IAT Total
+Flow-Based,All_Features,Fwd PSH Flags
+Flow-Based,All_Features,Fwd Packet Length Max
+Flow-Based,All_Features,Fwd Packet Length Mean
+Flow-Based,All_Features,Fwd Packet Length Min
+Flow-Based,All_Features,Fwd Packet Length Std
+Flow-Based,All_Features,Fwd Packets/s
+Flow-Based,All_Features,Fwd Seg Size Min
+Flow-Based,All_Features,Fwd Segment Size Avg
+Flow-Based,All_Features,Idle Max
+Flow-Based,All_Features,Idle Mean
+Flow-Based,All_Features,Idle Min
+Flow-Based,All_Features,Idle Std
+Flow-Based,All_Features,PSH Flag Count
+Flow-Based,All_Features,Packet Length Max
+Flow-Based,All_Features,Packet Length Mean
+Flow-Based,All_Features,Packet Length Min
+Flow-Based,All_Features,Packet Length Std
+Flow-Based,All_Features,Packet Length Variance
+Flow-Based,All_Features,Protocol
+Flow-Based,All_Features,RST Flag Count
+Flow-Based,All_Features,SYN Flag Count
+Flow-Based,All_Features,Src Port
+Flow-Based,All_Features,Subflow Bwd Bytes
+Flow-Based,All_Features,Subflow Bwd Packets
+Flow-Based,All_Features,Subflow Fwd Bytes
+Flow-Based,All_Features,Subflow Fwd Packets
+Flow-Based,All_Features,Total Bwd packets
+Flow-Based,All_Features,Total Fwd Packet
+Flow-Based,All_Features,Total Length of Bwd Packet
+Flow-Based,All_Features,Total Length of Fwd Packet
+Flow-Based,Mutual_Information,Average Packet Size
+Flow-Based,Mutual_Information,Dst Port
+Flow-Based,Mutual_Information,Flow Bytes/s
+Flow-Based,Mutual_Information,Flow Duration
+Flow-Based,Mutual_Information,Flow IAT Mean
+Flow-Based,Mutual_Information,Flow IAT Std
+Flow-Based,Mutual_Information,Flow Packets/s
+Flow-Based,Mutual_Information,Fwd IAT Max
+Flow-Based,Mutual_Information,Fwd IAT Mean
+Flow-Based,Mutual_Information,Fwd IAT Min
+Flow-Based,Mutual_Information,Fwd IAT Std
+Flow-Based,Mutual_Information,Fwd IAT Total
+Flow-Based,Mutual_Information,Fwd Packet Length Max
+Flow-Based,Mutual_Information,Fwd Packet Length Mean
+Flow-Based,Mutual_Information,Fwd Segment Size Avg
+Flow-Based,Mutual_Information,Packet Length Max
+Flow-Based,Mutual_Information,Packet Length Mean
+Flow-Based,Mutual_Information,Packet Length Std
+Flow-Based,Mutual_Information,Packet Length Variance
+Flow-Based,Mutual_Information,Src Port
+Flow-Based,Mutual_Information,Total Length of Fwd Packet
+Flow-Based,RandomForest_Importance,ACK Flag Count
+Flow-Based,RandomForest_Importance,Average Packet Size
+Flow-Based,RandomForest_Importance,Bwd IAT Total
+Flow-Based,RandomForest_Importance,Bwd Packets/s
+Flow-Based,RandomForest_Importance,Flow Bytes/s
+Flow-Based,RandomForest_Importance,Flow Duration
+Flow-Based,RandomForest_Importance,Flow IAT Max
+Flow-Based,RandomForest_Importance,Flow IAT Mean
+Flow-Based,RandomForest_Importance,Flow IAT Min
+Flow-Based,RandomForest_Importance,Flow IAT Std
+Flow-Based,RandomForest_Importance,Flow Packets/s
+Flow-Based,RandomForest_Importance,Fwd Act Data Pkts
+Flow-Based,RandomForest_Importance,Fwd Header Length
+Flow-Based,RandomForest_Importance,Fwd IAT Mean
+Flow-Based,RandomForest_Importance,Fwd IAT Std
+Flow-Based,RandomForest_Importance,Fwd IAT Total
+Flow-Based,RandomForest_Importance,Fwd Packet Length Std
+Flow-Based,RandomForest_Importance,Fwd Packets/s
+Flow-Based,RandomForest_Importance,PSH Flag Count
+Flow-Based,RandomForest_Importance,Src Port
+Flow-Based,RandomForest_Importance,Total Fwd Packet
+Flow-Based,HHO,ACK Flag Count
+Flow-Based,HHO,Active Max
+Flow-Based,HHO,Active Mean
+Flow-Based,HHO,Bwd Bulk Rate Avg
+Flow-Based,HHO,Bwd IAT Mean
+Flow-Based,HHO,Bwd IAT Min
+Flow-Based,HHO,Bwd IAT Std
+Flow-Based,HHO,Bwd IAT Total
+Flow-Based,HHO,Bwd Init Win Bytes
+Flow-Based,HHO,Bwd Packet Length Mean
+Flow-Based,HHO,Bwd Packets/s
+Flow-Based,HHO,Bwd Segment Size Avg
+Flow-Based,HHO,Flow Duration
+Flow-Based,HHO,Flow IAT Max
+Flow-Based,HHO,Fwd IAT Mean
+Flow-Based,HHO,Fwd IAT Std
+Flow-Based,HHO,Fwd Packets/s
+Flow-Based,HHO,Fwd Seg Size Min
+Flow-Based,HHO,Idle Max
+Flow-Based,HHO,Idle Mean
+Flow-Based,HHO,Idle Min
+Flow-Based,HHO,Packet Length Min
+Flow-Based,HHO,Packet Length Variance
+Flow-Based,HHO,SYN Flag Count
+Flow-Based,HHO,Src Port
+Flow-Based,HHO,Subflow Bwd Bytes
+Flow-Based,HHO,Subflow Bwd Packets
+Flow-Based,HHO,Subflow Fwd Packets
+Flow-Based,HHO,Total Bwd packets
+Flow-Based,HHO,Total Length of Fwd Packet
+Flow-Based,GWO,Active Mean
+Flow-Based,GWO,Active Std
+Flow-Based,GWO,Bwd Bytes/Bulk Avg
+Flow-Based,GWO,Bwd Header Length
+Flow-Based,GWO,Bwd IAT Mean
+Flow-Based,GWO,Bwd IAT Std
+Flow-Based,GWO,Bwd Packet Length Mean
+Flow-Based,GWO,Bwd Packet Length Std
+Flow-Based,GWO,Bwd Packet/Bulk Avg
+Flow-Based,GWO,Flow Duration
+Flow-Based,GWO,Flow Packets/s
+Flow-Based,GWO,Fwd Act Data Pkts
+Flow-Based,GWO,Fwd IAT Std
+Flow-Based,GWO,Fwd Packet Length Max
+Flow-Based,GWO,Fwd Packet Length Min
+Flow-Based,GWO,Fwd Packet Length Std
+Flow-Based,GWO,Fwd Packets/s
+Flow-Based,GWO,Fwd Seg Size Min
+Flow-Based,GWO,Packet Length Max
+Flow-Based,GWO,Packet Length Std
+Flow-Based,GWO,Protocol
+Flow-Based,GWO,RST Flag Count
+Flow-Based,GWO,SYN Flag Count
+Flow-Based,GWO,Src Port
+Flow-Based,GWO,Subflow Bwd Bytes
+Flow-Based,GWO,Subflow Fwd Packets
+Flow-Based,GWO,Total Length of Bwd Packet
+Flow-Based,GWO,Total Length of Fwd Packet
+Flow-Based,Hybrid_HHO_GWO,ACK Flag Count
+Flow-Based,Hybrid_HHO_GWO,Bwd IAT Total
+Flow-Based,Hybrid_HHO_GWO,Bwd Packets/s
+Flow-Based,Hybrid_HHO_GWO,Flow Bytes/s
+Flow-Based,Hybrid_HHO_GWO,Flow Duration
+Flow-Based,Hybrid_HHO_GWO,Flow IAT Max
+Flow-Based,Hybrid_HHO_GWO,Flow IAT Min
+Flow-Based,Hybrid_HHO_GWO,Flow IAT Std
+Flow-Based,Hybrid_HHO_GWO,Flow Packets/s
+Flow-Based,Hybrid_HHO_GWO,Fwd Act Data Pkts
+Flow-Based,Hybrid_HHO_GWO,Fwd Header Length
+Flow-Based,Hybrid_HHO_GWO,Fwd IAT Mean
+Flow-Based,Hybrid_HHO_GWO,Fwd IAT Total
+Flow-Based,Hybrid_HHO_GWO,Fwd Packet Length Std
+Flow-Based,Hybrid_HHO_GWO,Src Port
+Flow-Based,Hybrid_HHO_GWO,Total Fwd Packet
