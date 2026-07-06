@@ -1,0 +1,7 @@
+﻿item,count
+packet_features,135.0
+flow_features,288.0
+shared_features,0.0
+packet_unique_features,135.0
+flow_unique_features,288.0
+packet_flow_jaccard_overlap,0.0

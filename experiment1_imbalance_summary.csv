@@ -1,0 +1,3 @@
+﻿level,classes,max_count,min_count,imbalance_ratio,normalized_entropy
+attack_family,9,164,1,164.0,0.6164742996955406
+attack_subtype,238,2,1,2.0,0.9893254727260448

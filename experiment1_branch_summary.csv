@@ -1,0 +1,3 @@
+﻿branch,files,total_size_bytes,avg_columns,avg_missing_ratio,avg_duplicate_rows,total_size_readable
+Flow-Based,133,14753665130,84.0,3.730600801279322e-05,36.81954887218045,13.74 GB
+Packet-Based,181,40257609796,135.0,0.0850577386450271,0.0,37.49 GB

@@ -1,0 +1,18 @@
+﻿attack_family,branch,files,total_size_bytes,avg_columns,total_size_readable
+Benign,Flow-Based,4,217273291,84.0,207.21 MB
+Benign,Packet-Based,4,1555660506,135.0,1.45 GB
+Brute Force,Flow-Based,1,1746742,84.0,1.67 MB
+Brute Force,Packet-Based,1,164967707,135.0,157.33 MB
+DDoS,Flow-Based,62,1849235367,84.0,1.72 GB
+DDoS,Packet-Based,102,27497470152,135.0,25.61 GB
+DoS,Flow-Based,30,12277113746,84.0,11.43 GB
+DoS,Packet-Based,38,3329287714,135.0,3.10 GB
+Mirai,Flow-Based,29,90949868,84.0,86.74 MB
+Mirai,Packet-Based,22,4907128789,135.0,4.57 GB
+Recon,Flow-Based,1,227366191,84.0,216.83 MB
+Recon,Packet-Based,5,1221031824,135.0,1.14 GB
+Spoofing,Flow-Based,3,83923800,84.0,80.04 MB
+Spoofing,Packet-Based,3,1272113139,135.0,1.18 GB
+Unknown,Packet-Based,1,77275857,135.0,73.70 MB
+Web-Based,Flow-Based,3,6056125,84.0,5.78 MB
+Web-Based,Packet-Based,5,232674108,135.0,221.90 MB

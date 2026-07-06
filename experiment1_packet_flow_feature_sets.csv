@@ -1,0 +1,289 @@
+﻿shared_features,packet_unique_features,flow_unique_features
+,average_p,0
+,channel_10_count,0.0
+,channel_10_mean,0.0.1
+,channel_10_var,0.0.10
+,channel_1_count,0.0.11
+,channel_1_mean,0.0.12
+,channel_1_var,0.0.13
+,channel_30_count,0.0.14
+,channel_30_mean,0.0.15
+,channel_30_var,0.0.16
+,channel_5_count,0.0.17
+,channel_5_mean,0.0.18
+,channel_5_var,0.0.19
+,channel_60_count,0.0.2
+,channel_60_mean,0.0.3
+,channel_60_var,0.0.4
+,device_mac,0.0.5
+,dns_interval,0.0.6
+,dns_len_ans,0.0.7
+,dns_len_qry,0.0.8
+,dns_query_type,0.0.9
+,dns_server,0.1
+,dst_ip,0.10
+,dst_mac,0.11
+,dst_port,0.12
+,eth_dst_oui,0.13
+,eth_size,0.14
+,eth_src_oui,0.15
+,handshake_cipher_suites_length,0.16
+,handshake_ciphersuites,0.17
+,handshake_extensions_length,0.18
+,handshake_sig_hash_alg_len,0.19
+,handshake_version,0.2
+,highest_layer,0.20
+,http_content_len,0.21
+,http_content_type,0.22
+,http_host,0.23
+,http_request_method,0.24
+,http_response_code,0.25
+,http_uri,0.26
+,icmp_checksum_status,0.27
+,icmp_data_size,0.28
+,icmp_type,0.29
+,inter_arrival_time,0.3
+,iqr_p,0.30
+,jitter,0.31
+,l3_ip_dst_count,0.32
+,l4_tcp,0.33
+,l4_udp,0.34
+,max_p,0.35
+,med_p,0.36
+,min_e,0.37
+,min_et,0.38
+,min_p,0.39
+,most_freq_spot,0.4
+,ntp_interval,0.40
+,payload_entropy,0.5
+,payload_length,0.6
+,port_class_dst,0.7
+,q1,0.8
+,q1_e,0.9
+,q1_p,0.9383583046117496
+,q3_p,1
+,src_ip,1.0
+,src_ip_10_count,1.0.1
+,src_ip_10_mean,1.1
+,src_ip_10_var,1.2
+,src_ip_1_count,1.8767166092234993
+,src_ip_1_mean,100.5
+,src_ip_1_var,101623.39348676891
+,src_ip_30_count,1025781.0
+,src_ip_30_mean,1041
+,src_ip_30_var,1065691
+,src_ip_5_count,1074112.0
+,src_ip_5_mean,1074112.0.1
+,src_ip_5_var,107803.98755899083
+,src_ip_60_count,113199.52777777778
+,src_ip_60_mean,131
+,src_ip_60_var,134.0
+,src_ip_mac_10_count,140
+,src_ip_mac_10_mean,1407
+,src_ip_mac_10_var,142.251.41.67
+,src_ip_mac_1_count,142.251.41.67-192.168.137.93-80-55338-6
+,src_ip_mac_1_mean,15.8635552946882
+,src_ip_mac_1_var,150.82992629669573
+,src_ip_mac_30_count,1526.0
+,src_ip_mac_30_mean,1668
+,src_ip_mac_30_var,169.55555555555554
+,src_ip_mac_5_count,17.505164023386897
+,src_ip_mac_5_mean,17.505164023386897.1
+,src_ip_mac_5_var,172.253.115.95
+,src_ip_mac_60_count,18.129777479643657
+,src_ip_mac_60_mean,190.75
+,src_ip_mac_60_var,191843.07999999996
+,src_mac,191843.07999999996.1
+,src_port,192.168.137.164
+,stream,192.168.137.164-192.168.137.39-80-34050-6
+,stream_10_count,192.168.137.19
+,stream_10_mean,192.168.137.31
+,stream_10_var,192.168.137.31-172.253.115.95-50439-443-6
+,stream_1_count,192.168.137.39
+,stream_1_mean,192.168.137.72
+,stream_1_var,192.168.137.93
+,stream_30_count,2
+,stream_30_mean,2.1
+,stream_30_var,2.2
+,stream_5_count,2.266222184955457
+,stream_5_mean,2.3
+,stream_5_var,2.815074913835249
+,stream_60_count,20
+,stream_60_mean,20.1
+,stream_60_var,2025
+,stream_jitter_10_mean,218.0
+,stream_jitter_10_sum,218.0.1
+,stream_jitter_10_var,2187
+,stream_jitter_1_mean,219603.38466303944
+,stream_jitter_1_sum,219603.38466303944.1
+,stream_jitter_1_var,22/07/2022 04:00:53 PM
+,stream_jitter_30_mean,22/07/2022 11:41:31 AM
+,stream_jitter_30_sum,22749.666666666668
+,stream_jitter_30_var,249697.0
+,stream_jitter_5_mean,249697.0.1
+,stream_jitter_5_sum,25
+,stream_jitter_5_var,253691.0
+,stream_jitter_60_mean,26/07/2022 03:54:33 PM
+,stream_jitter_60_sum,27/07/2022 10:07:21 AM
+,stream_jitter_60_var,29/07/2022 04:55:46 PM
+,sum_p,290
+,tcp_window_size,3
+,time_since_previously_displayed_frame,3.1
+,tls_server,3.604118786949726
+,ttl,3.604118786949726.1
+,user_agent,319
+,var_e,319.0
+,var_p,319.0.1
+,,319.0.2
+,,319.0.3
+,,319.0.4
+,,319.0.5
+,,32
+,,32.1
+,,32.2
+,,33354.0
+,,33354.0.1
+,,336.45137505704713
+,,33777
+,,34050
+,,3458.2550542420277
+,,35.01032804677379
+,,35.185.101.66
+,,35.185.101.66-192.168.137.72-443-33777-6
+,,3650
+,,372.3058778298654
+,,377.22003845392334
+,,39910.0
+,,39910.0.1
+,,39910.0.2
+,,39910.0.3
+,,39910.0.4
+,,41.5
+,,41.5.1
+,,416190.5
+,,416190.5.1
+,,42281.83333333333
+,,44.231.176.168
+,,44.231.176.168-192.168.137.19-443-47717-6
+,,441263
+,,443
+,,457
+,,47717
+,,5.316845413449367
+,,5.316845413449367.1
+,,50439
+,,51
+,,51.1
+,,532845.5
+,,55338
+,,57126
+,,57126.0
+,,57126.0.1
+,,57126.0.2
+,,58.68986283848344
+,,588580.8354172773
+,,588580.8354172773.1
+,,6
+,,63037.57142857143
+,,697116.0694751628
+,,7
+,,76
+,,763.0
+,,763.0.1
+,,8
+,,80
+,,83
+,,83.0
+,,83.0.1
+,,832380.0
+,,832380.0.1
+,,832381
+,,832381.0
+,,9592154
+,,9592154.0
+,,96
+,,ACK Flag Count
+,,Active Max
+,,Active Mean
+,,Active Min
+,,Active Std
+,,Average Packet Size
+,,Bwd Bulk Rate Avg
+,,Bwd Bytes/Bulk Avg
+,,Bwd Header Length
+,,Bwd IAT Max
+,,Bwd IAT Mean
+,,Bwd IAT Min
+,,Bwd IAT Std
+,,Bwd IAT Total
+,,Bwd Init Win Bytes
+,,Bwd PSH Flags
+,,Bwd Packet Length Max
+,,Bwd Packet Length Mean
+,,Bwd Packet Length Min
+,,Bwd Packet Length Std
+,,Bwd Packet/Bulk Avg
+,,Bwd Packets/s
+,,Bwd Segment Size Avg
+,,Bwd URG Flags
+,,CWR Flag Count
+,,Down/Up Ratio
+,,Dst IP
+,,Dst Port
+,,ECE Flag Count
+,,FIN Flag Count
+,,FWD Init Win Bytes
+,,Flow Bytes/s
+,,Flow Duration
+,,Flow IAT Max
+,,Flow IAT Mean
+,,Flow IAT Min
+,,Flow IAT Std
+,,Flow ID
+,,Flow Packets/s
+,,Fwd Act Data Pkts
+,,Fwd Bulk Rate Avg
+,,Fwd Bytes/Bulk Avg
+,,Fwd Header Length
+,,Fwd IAT Max
+,,Fwd IAT Mean
+,,Fwd IAT Min
+,,Fwd IAT Std
+,,Fwd IAT Total
+,,Fwd PSH Flags
+,,Fwd Packet Length Max
+,,Fwd Packet Length Mean
+,,Fwd Packet Length Min
+,,Fwd Packet Length Std
+,,Fwd Packet/Bulk Avg
+,,Fwd Packets/s
+,,Fwd Seg Size Min
+,,Fwd Segment Size Avg
+,,Fwd URG Flags
+,,Idle Max
+,,Idle Mean
+,,Idle Min
+,,Idle Std
+,,Label
+,,NeedManualLabel
+,,PSH Flag Count
+,,Packet Length Max
+,,Packet Length Mean
+,,Packet Length Min
+,,Packet Length Std
+,,Packet Length Variance
+,,Protocol
+,,RST Flag Count
+,,SYN Flag Count
+,,Src IP
+,,Src Port
+,,Subflow Bwd Bytes
+,,Subflow Bwd Packets
+,,Subflow Fwd Bytes
+,,Subflow Fwd Packets
+,,Timestamp
+,,Total Bwd packets
+,,Total Fwd Packet
+,,Total Length of Bwd Packet
+,,Total Length of Fwd Packet
+,,URG Flag Count
