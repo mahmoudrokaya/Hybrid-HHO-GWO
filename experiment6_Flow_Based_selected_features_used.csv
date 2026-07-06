@@ -1,0 +1,8 @@
+﻿Branch,Selected_Feature
+Flow-Based,Bwd Segment Size Avg
+Flow-Based,FWD Init Win Bytes
+Flow-Based,Flow IAT Std
+Flow-Based,Flow Packets/s
+Flow-Based,Fwd Header Length
+Flow-Based,RST Flag Count
+Flow-Based,Src Port

@@ -1,0 +1,9 @@
+﻿Branch,Selected_Feature
+Packet-Based,most_freq_spot
+Packet-Based,src_ip_5_count
+Packet-Based,src_ip_mac_10_mean
+Packet-Based,stream
+Packet-Based,stream_1_var
+Packet-Based,stream_jitter_30_mean
+Packet-Based,stream_jitter_30_var
+Packet-Based,ttl
