@@ -1,0 +1,175 @@
+﻿Branch,Feature
+Packet-Based,average_p
+Packet-Based,channel_10_count
+Packet-Based,channel_10_mean
+Packet-Based,channel_10_var
+Packet-Based,channel_1_count
+Packet-Based,channel_1_mean
+Packet-Based,channel_1_var
+Packet-Based,channel_30_count
+Packet-Based,channel_30_mean
+Packet-Based,channel_30_var
+Packet-Based,channel_5_count
+Packet-Based,channel_5_mean
+Packet-Based,channel_5_var
+Packet-Based,channel_60_count
+Packet-Based,channel_60_mean
+Packet-Based,channel_60_var
+Packet-Based,dst_port
+Packet-Based,eth_size
+Packet-Based,inter_arrival_time
+Packet-Based,jitter
+Packet-Based,l3_ip_dst_count
+Packet-Based,l4_tcp
+Packet-Based,l4_udp
+Packet-Based,max_p
+Packet-Based,med_p
+Packet-Based,min_e
+Packet-Based,min_et
+Packet-Based,min_p
+Packet-Based,most_freq_spot
+Packet-Based,payload_entropy
+Packet-Based,payload_length
+Packet-Based,port_class_dst
+Packet-Based,q1
+Packet-Based,q1_e
+Packet-Based,q1_p
+Packet-Based,q3_p
+Packet-Based,src_ip_10_count
+Packet-Based,src_ip_10_mean
+Packet-Based,src_ip_10_var
+Packet-Based,src_ip_1_count
+Packet-Based,src_ip_1_mean
+Packet-Based,src_ip_1_var
+Packet-Based,src_ip_30_count
+Packet-Based,src_ip_30_mean
+Packet-Based,src_ip_30_var
+Packet-Based,src_ip_5_count
+Packet-Based,src_ip_5_mean
+Packet-Based,src_ip_5_var
+Packet-Based,src_ip_60_count
+Packet-Based,src_ip_60_mean
+Packet-Based,src_ip_60_var
+Packet-Based,src_ip_mac_10_count
+Packet-Based,src_ip_mac_10_mean
+Packet-Based,src_ip_mac_10_var
+Packet-Based,src_ip_mac_1_count
+Packet-Based,src_ip_mac_1_mean
+Packet-Based,src_ip_mac_1_var
+Packet-Based,src_ip_mac_30_count
+Packet-Based,src_ip_mac_30_mean
+Packet-Based,src_ip_mac_30_var
+Packet-Based,src_ip_mac_5_count
+Packet-Based,src_ip_mac_5_mean
+Packet-Based,src_ip_mac_5_var
+Packet-Based,src_ip_mac_60_count
+Packet-Based,src_ip_mac_60_mean
+Packet-Based,src_ip_mac_60_var
+Packet-Based,src_port
+Packet-Based,stream
+Packet-Based,stream_10_count
+Packet-Based,stream_10_mean
+Packet-Based,stream_10_var
+Packet-Based,stream_1_count
+Packet-Based,stream_1_mean
+Packet-Based,stream_1_var
+Packet-Based,stream_30_count
+Packet-Based,stream_30_mean
+Packet-Based,stream_30_var
+Packet-Based,stream_5_count
+Packet-Based,stream_5_mean
+Packet-Based,stream_5_var
+Packet-Based,stream_60_count
+Packet-Based,stream_60_mean
+Packet-Based,stream_60_var
+Packet-Based,stream_jitter_10_mean
+Packet-Based,stream_jitter_10_sum
+Packet-Based,stream_jitter_10_var
+Packet-Based,stream_jitter_1_mean
+Packet-Based,stream_jitter_1_sum
+Packet-Based,stream_jitter_1_var
+Packet-Based,stream_jitter_30_mean
+Packet-Based,stream_jitter_30_sum
+Packet-Based,stream_jitter_30_var
+Packet-Based,stream_jitter_5_mean
+Packet-Based,stream_jitter_5_sum
+Packet-Based,stream_jitter_5_var
+Packet-Based,stream_jitter_60_mean
+Packet-Based,stream_jitter_60_sum
+Packet-Based,stream_jitter_60_var
+Packet-Based,sum_p
+Packet-Based,tcp_window_size
+Packet-Based,time_since_previously_displayed_frame
+Packet-Based,ttl
+Packet-Based,var_e
+Packet-Based,var_p
+Flow-Based,ACK Flag Count
+Flow-Based,Active Max
+Flow-Based,Active Mean
+Flow-Based,Active Min
+Flow-Based,Active Std
+Flow-Based,Average Packet Size
+Flow-Based,Bwd Bulk Rate Avg
+Flow-Based,Bwd Bytes/Bulk Avg
+Flow-Based,Bwd Header Length
+Flow-Based,Bwd IAT Max
+Flow-Based,Bwd IAT Mean
+Flow-Based,Bwd IAT Min
+Flow-Based,Bwd IAT Std
+Flow-Based,Bwd IAT Total
+Flow-Based,Bwd Init Win Bytes
+Flow-Based,Bwd Packet Length Max
+Flow-Based,Bwd Packet Length Mean
+Flow-Based,Bwd Packet Length Min
+Flow-Based,Bwd Packet Length Std
+Flow-Based,Bwd Packet/Bulk Avg
+Flow-Based,Bwd Packets/s
+Flow-Based,Bwd Segment Size Avg
+Flow-Based,Down/Up Ratio
+Flow-Based,Dst Port
+Flow-Based,FIN Flag Count
+Flow-Based,FWD Init Win Bytes
+Flow-Based,Flow Bytes/s
+Flow-Based,Flow Duration
+Flow-Based,Flow IAT Max
+Flow-Based,Flow IAT Mean
+Flow-Based,Flow IAT Min
+Flow-Based,Flow IAT Std
+Flow-Based,Flow Packets/s
+Flow-Based,Fwd Act Data Pkts
+Flow-Based,Fwd Header Length
+Flow-Based,Fwd IAT Max
+Flow-Based,Fwd IAT Mean
+Flow-Based,Fwd IAT Min
+Flow-Based,Fwd IAT Std
+Flow-Based,Fwd IAT Total
+Flow-Based,Fwd PSH Flags
+Flow-Based,Fwd Packet Length Max
+Flow-Based,Fwd Packet Length Mean
+Flow-Based,Fwd Packet Length Min
+Flow-Based,Fwd Packet Length Std
+Flow-Based,Fwd Packets/s
+Flow-Based,Fwd Seg Size Min
+Flow-Based,Fwd Segment Size Avg
+Flow-Based,Idle Max
+Flow-Based,Idle Mean
+Flow-Based,Idle Min
+Flow-Based,Idle Std
+Flow-Based,PSH Flag Count
+Flow-Based,Packet Length Max
+Flow-Based,Packet Length Mean
+Flow-Based,Packet Length Min
+Flow-Based,Packet Length Std
+Flow-Based,Packet Length Variance
+Flow-Based,Protocol
+Flow-Based,RST Flag Count
+Flow-Based,SYN Flag Count
+Flow-Based,Src Port
+Flow-Based,Subflow Bwd Bytes
+Flow-Based,Subflow Bwd Packets
+Flow-Based,Subflow Fwd Bytes
+Flow-Based,Subflow Fwd Packets
+Flow-Based,Total Bwd packets
+Flow-Based,Total Fwd Packet
+Flow-Based,Total Length of Bwd Packet
+Flow-Based,Total Length of Fwd Packet
