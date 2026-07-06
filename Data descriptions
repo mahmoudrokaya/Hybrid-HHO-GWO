@@ -1,0 +1,95 @@
+# CIC IoT-DIAD 2024 Dataset Overview
+
+The **CIC IoT-DIAD 2024** dataset is a comprehensive benchmark developed by the **Canadian Institute for Cybersecurity (CIC)** for IoT device identification and anomaly detection research. It was designed to support machine learning and deep learning approaches for intrusion detection in realistic Internet of Things (IoT) environments.
+
+## Key Characteristics
+
+- **33 attack types** grouped into **7 attack categories**:
+  - Distributed Denial-of-Service (DDoS)
+  - Denial-of-Service (DoS)
+  - Reconnaissance (Recon)
+  - Web-Based Attacks
+  - Brute Force
+  - Spoofing
+  - Mirai
+- **84 flow-based features** extracted using **CICFlowMeter**
+- Traffic generated from **105 real IoT devices**
+- Provides both:
+  - **Packet-based** feature extraction
+  - **Flow-based** feature extraction
+- Supports:
+  - Binary anomaly detection
+  - Multi-class attack classification
+  - IoT device identification
+
+---
+
+# Why Focus on DDoS Attacks?
+
+Distributed Denial-of-Service (**DDoS**) attacks were selected as the primary target because they provide an ideal benchmark for evaluating optimization-based intrusion detection systems.
+
+## Advantages
+
+- Most extensively studied attack category in IoT cybersecurity
+- Rich and highly diverse feature space suitable for optimization
+- Significant real-world impact on IoT infrastructures
+- Excellent benchmark for evaluating feature-selection algorithms
+- Enables substantial dimensionality reduction while maintaining high detection performance
+- Well suited for demonstrating lightweight edge-deployable intrusion detection systems
+
+---
+
+# Hybrid HHO-GWO Optimization
+
+The proposed framework employs a **Hybrid Harris Hawks Optimization (HHO)** and **Grey Wolf Optimization (GWO)** algorithm.
+
+## Motivation
+
+Recent studies have shown that hybrid metaheuristic optimization strategies outperform individual optimization algorithms by combining complementary search behaviors.
+
+### Harris Hawks Optimization (HHO)
+
+Provides:
+
+- Strong local exploitation
+- Adaptive search behavior
+- Fast convergence near promising solutions
+
+### Grey Wolf Optimization (GWO)
+
+Provides:
+
+- Powerful global exploration
+- Stable population guidance
+- Effective avoidance of local optima
+
+### Hybrid HHO-GWO
+
+The proposed Hybrid HHO-GWO framework combines the strengths of both algorithms to simultaneously optimize:
+
+- Feature selection
+- Classifier hyperparameters
+- Lightweight model construction
+
+This hybrid optimization strategy aims to achieve:
+
+- Higher classification performance
+- Greater feature reduction
+- Lower computational complexity
+- Faster inference
+- Improved edge deployment suitability
+
+---
+
+# Dataset Link
+
+Official dataset website:
+
+https://www.unb.ca/cic/datasets/iot-diad-2024.html
+
+---
+
+# References
+
+- Rabbani, M., Gui, J., Nejati, F., Zhou, Z., Kaniyamattam, A., Mirani, M., Piya, G., Opushnyev, I., Lu, R., & Ghorbani, A. A. **Device Identification and Anomaly Detection in IoT Environments.** *IEEE Internet of Things Journal*, 2024.
+- Canadian Institute for Cybersecurity (CIC). **CIC IoT-DIAD 2024 Dataset**. https://www.unb.ca/cic/datasets/iot-diad-2024.html
